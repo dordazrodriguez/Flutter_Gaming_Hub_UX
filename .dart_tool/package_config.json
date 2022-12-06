@@ -1,0 +1,806 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "_fe_analyzer_shared",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/_fe_analyzer_shared-7.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "amazon_cognito_identity_dart_2",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/amazon_cognito_identity_dart_2-0.1.25+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "analyzer",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/analyzer-0.39.17",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/args-1.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "async",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/async-2.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "auto_route",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/auto_route-0.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.5"
+    },
+    {
+      "name": "auto_route_generator",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/auto_route_generator-0.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.5"
+    },
+    {
+      "name": "aws_dynamodb_api",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/aws_dynamodb_api-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "boolean_selector",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/boolean_selector-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "build",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/build-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "build_config",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/build_config-0.4.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "build_daemon",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/build_daemon-2.1.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.9"
+    },
+    {
+      "name": "build_resolvers",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/build_resolvers-1.3.11",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "build_runner",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/build_runner-1.10.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "build_runner_core",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/build_runner_core-6.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "built_collection",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/built_collection-5.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "built_value",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/built_value-8.0.0-nullsafety.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "characters",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/characters-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "charcode",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/charcode-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "checked_yaml",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/checked_yaml-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "cli_util",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/cli_util-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "clock",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/clock-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "code_builder",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/code_builder-3.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/collection-1.15.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "convert",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/convert-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "1.17"
+    },
+    {
+      "name": "crypto",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/crypto-2.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "csslib",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/csslib-0.16.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "cupertino_icons",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/cupertino_icons-0.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "dart_style",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/dart_style-1.3.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "fake_async",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/fake_async-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "ffi",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/ffi-0.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "file",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/file-5.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "fixnum",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/fixnum-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter",
+      "rootUri": "file:///C:/Users/David/fvm/default/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_hooks",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/flutter_hooks-0.15.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "flutter_icons",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/flutter_icons-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "flutter_riverpod",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/flutter_riverpod-0.12.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.8"
+    },
+    {
+      "name": "flutter_svg",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/flutter_svg-0.19.2+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "flutter_test",
+      "rootUri": "file:///C:/Users/David/fvm/default/packages/flutter_test",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///C:/Users/David/fvm/default/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "freezed_annotation",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/freezed_annotation-0.12.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "get",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/get-3.24.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "get_it",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/get_it-4.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "glob",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/glob-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "google_fonts",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/google_fonts-1.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "graphs",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/graphs-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "hive",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/hive-1.4.4+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "hooks_riverpod",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/hooks_riverpod-0.12.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.8"
+    },
+    {
+      "name": "html",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/html-0.14.0+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/http-0.12.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "http_multi_server",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/http_multi_server-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/http_parser-3.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "injectable",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/injectable-0.4.0+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.5"
+    },
+    {
+      "name": "injectable_generator",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/injectable_generator-0.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.5"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/intl-0.16.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.5"
+    },
+    {
+      "name": "io",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/io-0.3.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/js-0.6.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "json_annotation",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/json_annotation-3.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "logging",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/logging-0.11.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "matcher",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/matcher-0.12.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/meta-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "mime",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/mime-0.9.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "nested",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/nested-0.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "node_interop",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/node_interop-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.9"
+    },
+    {
+      "name": "node_io",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/node_io-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "observable_ish",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/observable_ish-2.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "package_config",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/package_config-1.9.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/path-1.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_drawing",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/path_drawing-0.4.1+1",
+      "packageUri": "lib/",
+      "languageVersion": "1.19"
+    },
+    {
+      "name": "path_parsing",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/path_parsing-0.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "1.19"
+    },
+    {
+      "name": "path_provider",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/path_provider-1.6.27",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "path_provider_linux",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/path_provider_linux-0.0.1+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "path_provider_macos",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+8",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "path_provider_platform_interface",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/path_provider_platform_interface-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "path_provider_windows",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/path_provider_windows-0.0.4+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "pedantic",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/pedantic-1.10.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "percent_indicator",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/percent_indicator-2.1.9+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/petitparser-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "platform",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/platform-3.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/plugin_platform_interface-1.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "pool",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/pool-1.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "process",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/process-3.0.13",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "provider",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/provider-4.3.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "pub_semver",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/pub_semver-1.4.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "pubspec_parse",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/pubspec_parse-0.1.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "riverpod",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/riverpod-0.12.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.8"
+    },
+    {
+      "name": "screen_utils",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/screen_utils-0.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "sembast",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/sembast-2.4.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.9"
+    },
+    {
+      "name": "shared_aws_api",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/shared_aws_api-0.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "shared_preferences",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/shared_preferences-0.5.12+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "shared_preferences_linux",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/shared_preferences_linux-0.0.2+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "shared_preferences_macos",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/shared_preferences_macos-0.0.1+11",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "shared_preferences_platform_interface",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/shared_preferences_platform_interface-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "shared_preferences_web",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/shared_preferences_web-0.1.2+7",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "shared_preferences_windows",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/shared_preferences_windows-0.0.2+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "shelf",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/shelf-0.7.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "shelf_web_socket",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/shelf_web_socket-0.2.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "sky_engine",
+      "rootUri": "file:///C:/Users/David/fvm/default/bin/cache/pkg/sky_engine",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "source_gen",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/source_gen-0.9.7+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/source_span-1.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "sqflite",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/sqflite-1.3.2+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "sqflite_common",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/sqflite_common-1.0.3+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "stack_trace",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/stack_trace-1.10.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "stacked",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/stacked-1.7.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "stacked_services",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/stacked_services-0.6.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "state_notifier",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/state_notifier-0.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "stream_channel",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/stream_channel-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "stream_transform",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/stream_transform-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/string_scanner-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "synchronized",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/synchronized-2.2.0+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.8"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/term_glyph-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "test_api",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/test_api-0.2.19",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "timing",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/timing-0.1.1+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/typed_data-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "url_launcher",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/url_launcher-5.7.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "url_launcher_linux",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/url_launcher_linux-0.0.1+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "url_launcher_macos",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/url_launcher_macos-0.0.1+9",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "url_launcher_platform_interface",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/url_launcher_platform_interface-1.0.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "url_launcher_web",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/url_launcher_web-0.1.5+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "url_launcher_windows",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/url_launcher_windows-0.0.1+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "uuid",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/uuid-2.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "vector_math",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/vector_math-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "video_player",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/video_player-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.8"
+    },
+    {
+      "name": "video_player_platform_interface",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/video_player_platform_interface-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.8"
+    },
+    {
+      "name": "video_player_web",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/video_player_web-0.1.4+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.8"
+    },
+    {
+      "name": "watcher",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/watcher-0.9.7+15",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "web_socket_channel",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/web_socket_channel-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "win32",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/win32-1.7.4+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "window_size",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/git/flutter-desktop-embedding-fd519be1e8398c6b6c2062c2447bac960a71bc02/plugins/window_size",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "xdg_directories",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/xdg_directories-0.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "xml",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/xml-4.5.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "yaml",
+      "rootUri": "file:///C:/Users/David/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/yaml-2.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "epic_games_ui",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    }
+  ],
+  "generated": "2022-04-30T23:03:18.499947Z",
+  "generator": "pub",
+  "generatorVersion": "2.12.0-259.16.beta"
+}

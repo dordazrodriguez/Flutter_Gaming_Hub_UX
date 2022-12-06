@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\David\Documents\Programming Projects\Flutter Projects\epic_games_flutter\EpicGames_Flutter_WIP\epic_games_ui\build\windows\CMakeFiles\2df04144b310ba8486a1ccc474023dcd\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\David\Documents\Programming Projects\Flutter Projects\epic_games_flutter\EpicGames_Flutter_WIP\epic_games_ui\build\windows\CMakeFiles\b9ad964a563e4ea023eee708a0f58f83\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\David\Documents\Programming Projects\Flutter Projects\epic_games_flutter\EpicGames_Flutter_WIP\epic_games_ui\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\David\Documents\Programming Projects\Flutter Projects\epic_games_flutter\EpicGames_Flutter_WIP\epic_games_ui\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E7BD7112-1179-373F-AF3E-2EED697DC244}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

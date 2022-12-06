@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\David\Documents\Programming Projects\Flutter Projects\epic_games_flutter\EpicGames_Flutter_WIP\epic_games_ui\build\windows\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\David\Documents\Programming Projects\Flutter Projects\epic_games_flutter\EpicGames_Flutter_WIP\epic_games_ui\build\windows\flutter\x64\Debug\flutter_assemble</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\David\Documents\Programming Projects\Flutter Projects\epic_games_flutter\EpicGames_Flutter_WIP\epic_games_ui\build\windows\plugins\url_launcher_windows\Debug\url_launcher_windows_plugin.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\David\Documents\Programming Projects\Flutter Projects\epic_games_flutter\EpicGames_Flutter_WIP\epic_games_ui\build\windows\plugins\window_size\Debug\window_size_plugin.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\David\Documents\Programming Projects\Flutter Projects\epic_games_flutter\EpicGames_Flutter_WIP\epic_games_ui\build\windows\runner\Debug\epic_games_ui.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
